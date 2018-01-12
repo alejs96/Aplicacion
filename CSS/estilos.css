@@ -1,0 +1,84 @@
+		body {
+			background-color: #D0A9F5;
+		}
+		h1{
+			text-align: center;
+		}
+
+		.caja1{
+			width : 110px;
+			height: 110px;
+			background-color: grey;
+		}
+
+		.destino{
+			width : 120px;
+			height: 120px;
+			border: 2px solid #FFC300;
+		}
+
+		.circulo{
+			width : 110px;
+			height: 110px;
+			background-color: grey;
+			border-radius: 60px;
+		}
+
+		.destino2{
+			width : 120px;
+			height: 120px;
+			border-radius: 60px;
+			border: 2px solid red;
+		}
+
+		.rectangulo{
+			width: 220px; 
+     		height: 60px;
+			background-color: grey;
+		}
+
+		.destino3{
+			width : 230px;
+			height: 70px;
+			border: 2px solid green;
+		}
+
+		.rombo{
+			width: 80px; 
+     		height: 80px; 
+     		background: grey;
+     		-webkit-transform: rotate(45deg);
+     		-moz-transform: rotate(45deg);
+     		-ms-transform: rotate(45deg);
+     		-o-transform: rotate(45deg);
+     		transform: rotate(45deg);
+		}
+
+		.destino4{
+			width: 85px; 
+     		height: 85px; 
+     		border: 2px solid blue;
+     		-webkit-transform: rotate(45deg);
+     		-moz-transform: rotate(45deg);
+     		-ms-transform: rotate(45deg);
+     		-o-transform: rotate(45deg);
+     		transform: rotate(45deg);
+		}
+
+		table{
+			width: 700px;
+			height: 700px;
+			margin: 0 auto;
+			border: 2px solid black;
+   			border-radius: 92px 92px 92px 92px;
+
+		}
+
+		td{
+			padding-top: 5px;
+			padding-bottom: 5px;
+		}
+
+		.cargar{
+			visibility: hidden;
+		}
